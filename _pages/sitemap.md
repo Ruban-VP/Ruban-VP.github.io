@@ -1,9 +1,11 @@
 ---
-published: false
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
+redirect_from: 
+  - /sitemap
+  - /sitemap.xml
 ---
 
 {% include base_path %}

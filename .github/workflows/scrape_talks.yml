@@ -28,10 +28,13 @@ jobs:
       run: |
         jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
 
-    - name: Commit changes
+    - name: Commit changes (skip generated talkmap and markdown_generator files)
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
+        # Add everything, then unstage the generated folders so they are not committed
         git add .
+        git reset --quiet talkmap || true
+        git reset --quiet markdown_generator || true
         git commit -m "Automated update of talk locations" || echo "No changes to commit"
         git push

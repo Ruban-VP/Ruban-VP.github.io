@@ -190,6 +190,7 @@ exclude:
   - tmp
   - vendor
   - markdown_generator
+  - talkmap
   - talkmap/map.html
 keep_files:
   - .git
@@ -312,7 +313,7 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jemoji
-# - jekyll-sitemap
+  - jekyll-sitemap
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -321,7 +322,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-redirect-from
   - jemoji
-# - jekyll-sitemap
+  - jekyll-sitemap
 
 
 # Archives
