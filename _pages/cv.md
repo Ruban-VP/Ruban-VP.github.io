@@ -20,7 +20,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-My detailed resume can be found here: [CV]{/files/resume.pdf}
+My detailed resume can be found here: [CV](/files/resume.pdf)
 
 <!-- Work experience
 ======
