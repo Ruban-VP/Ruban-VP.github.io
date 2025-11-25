@@ -189,6 +189,8 @@ exclude:
   - README
   - tmp
   - vendor
+  - markdown_generator
+  - talkmap/map.html
 keep_files:
   - .git
   - .svn
@@ -308,18 +310,18 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+# - jekyll-sitemap
 
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+# - jekyll-sitemap
 
 
 # Archives
