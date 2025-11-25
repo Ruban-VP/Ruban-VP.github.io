@@ -1,5 +1,6 @@
 ---
-layout: page_not_found
+published: false
+layout: archive
 permalink: /markdown/
 title: "Markdown"
 author_profile: true

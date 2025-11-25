@@ -1,5 +1,6 @@
 ---
-layout: page_not_found
+published: false
+layout: archive
 permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2016-06-06

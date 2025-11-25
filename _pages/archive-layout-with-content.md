@@ -1,6 +1,7 @@
 ---
+published: false
 title: "Archive Layout with Content"
-layout: page_not_found
+layout: archive
 permalink: /archive-layout-with-content/
 ---
 

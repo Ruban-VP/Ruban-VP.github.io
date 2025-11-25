@@ -1,5 +1,6 @@
 ---
-layout: page_not_found
+published: false
+layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true

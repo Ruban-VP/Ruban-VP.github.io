@@ -1,5 +1,6 @@
 ---
-layout: page_not_found
+published: false
+layout: archive
 permalink: /non-menu-page/
 title: "Page not in menu"
 author_profile: true
