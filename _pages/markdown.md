@@ -1,5 +1,5 @@
 ---
-layout: 404
+layout: page_not_found
 permalink: /markdown/
 title: "Markdown"
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-layout: 404
+layout: page_not_found
 title: "CV"
 permalink: /cv-json/
 author_profile: false

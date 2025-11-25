@@ -1,6 +1,6 @@
 ---
 title: "Archive Layout with Content"
-layout: 404
+layout: page_not_found
 permalink: /archive-layout-with-content/
 ---
 

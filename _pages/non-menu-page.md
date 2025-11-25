@@ -1,5 +1,5 @@
 ---
-layout: 404
+layout: page_not_found
 permalink: /non-menu-page/
 title: "Page not in menu"
 author_profile: true

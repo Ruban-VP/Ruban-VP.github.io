@@ -1,5 +1,5 @@
 ---
-layout: 404
+layout: page_not_found
 permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2016-06-06

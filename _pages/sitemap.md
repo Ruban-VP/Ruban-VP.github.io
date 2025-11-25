@@ -1,5 +1,5 @@
 ---
-layout: 404
+layout: page_not_found
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
