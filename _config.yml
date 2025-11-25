@@ -223,7 +223,6 @@ collections:
     permalink: /:collection/:path/
   posts:
     output: false
-    permalink: /:collection/:path/
   teaching:
     output: false
     permalink: /:collection/:path/
