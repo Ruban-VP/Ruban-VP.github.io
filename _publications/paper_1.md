@@ -1,11 +1,11 @@
 ---
 title: "Compgen: Synthesis and Generation of Faces From Edgemaps"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/paper_1
 excerpt: ''
 date: 2025-04-06
-venue: ''
+venue: 'ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 slidesurl: ''
 paperurl: ''
 bibtexurl: 'https://Ruban-VP.github.io/files/paper_1_bibtex.bib'
