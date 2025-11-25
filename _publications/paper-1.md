@@ -2,14 +2,14 @@
 title: "Compgen: Synthesis and Generation of Faces From Edgemaps"
 collection: publications
 category: conferences
-permalink: /publication/paper_1
+permalink: /publication/paper-1
 excerpt: ''
 date: 2025-04-06
 venue: 'ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
-slidesurl: ''
-paperurl: ''
+slidesurl:
+paperurl:
 bibtexurl: 'https://Ruban-VP.github.io/files/paper_1_bibtex.bib'
-citation: ''
+citation:
 ---
 **Abstract:**
 In this paper, we address the problem of synthesis and generation of faces from edgemaps, motivated by extreme low bit-rate facial compression and the need for robust source-channel coding over noisy channels. Three approaches for image reconstruction are proposed. In the first, a deep learning-based encoder-decoder creates a latent space representation of the original image. 
