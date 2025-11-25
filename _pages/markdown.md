@@ -1,4 +1,5 @@
 ---
+layout: 404
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
