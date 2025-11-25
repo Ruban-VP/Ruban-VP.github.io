@@ -224,17 +224,22 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+    title: 'Publications'
   posts:
     output: false
+    title: 'Posts'
   teaching:
     output: false
     permalink: /:collection/:path/
+    title: 'Teaching'
   portfolio:
     output: false
     permalink: /:collection/:path/
+    title: 'Portfolio'
   talks:
     output: false
     permalink: /:collection/:path/
+    title: 'Talks'
 
 # These settings control how pages and collections are included in the site
 defaults:
