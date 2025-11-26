@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, UT Austin  <div style="text-align: right, font-family: 'Times New Roman"> Aug 2025 - Present </div>
+* Ph.D in Electrical and Computer Engineering, UT Austin  <span style="float:right; font-family: 'Times New Roman">Aug 2025 - Present</span>
 * B.Tech + M.Tech Integrated Degree in Electrical Engineering, IIT Madras [Jul 2019 - Jul 2024]{style="float:right, font-family: 'Times New Roman'"}
 
 Research Experience:
