@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Proof attempt of Hoeffding inequality for sampling without replacement'
 date: ''
 permalink: /blog_post_1/

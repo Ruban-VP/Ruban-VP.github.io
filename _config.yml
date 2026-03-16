@@ -227,6 +227,7 @@ collections:
     title: 'Publications'
   posts:
     output: true
+    permalink: /:collection/:path/
     title: 'Posts'
   teaching:
     output: false
