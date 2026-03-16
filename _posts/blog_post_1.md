@@ -1,7 +1,7 @@
 ---
 published: true
 title: 'Proof attempt of Hoeffding inequality for sampling without replacement'
-date: '2026-03-16'
+date: 2026-03-16
 permalink: /blog_post_1/
 tags:
   - math
