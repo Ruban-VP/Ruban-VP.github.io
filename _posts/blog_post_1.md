@@ -1,0 +1,14 @@
+---
+published: false
+title: 'Proof attempt of Hoeffding inequality for sampling without replacement'
+date: ''
+permalink: /blog_post_1/
+tags:
+  - math
+---
+
+# Hoeffding's inequality for Sampling without replacement
+
+Hoeffding's inequality is a classic result in concentration theory which bounds the deviation error of sums of bounded, independent random variables. Hence, it can be applied to RVs which are sampled uniformly with replacement from a finite dataset. But does the inequality work even if the samples are obtained without replacement? The answer is **Yes** and Hoeffding even proved this in his original paper by constructing an auxillary function. This is my attempt at going through his proof rigorously and understand the key combinatorial concepts needed in this proof.
+
+The detailed proof sketch can be found here: [Proof](/files/HL_proof.pdf)
