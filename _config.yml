@@ -162,7 +162,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -226,10 +225,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     title: 'Publications'
-  posts:
-    output: true
-    permalink: /:collection/:path/
-    title: 'Posts'
+  # posts:
+  #   output: true
+  #   permalink: /:collection/:path/
+  #   title: 'Posts'
   teaching:
     output: false
     permalink: /:collection/:path/
