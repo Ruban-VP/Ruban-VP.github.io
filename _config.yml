@@ -23,7 +23,7 @@ repository               : "Ruban-VP/Ruban-VP.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   name             : "Ruban Vishnu Pandian"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student, Chandra Family Department of Electrical and Computer Engineering, The University of Texas at Austin"
